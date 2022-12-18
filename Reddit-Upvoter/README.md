@@ -1,2 +1,2 @@
 
-## Reddit Upvoter
+# Reddit Upvoter

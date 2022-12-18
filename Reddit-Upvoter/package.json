@@ -1,0 +1,14 @@
+{
+  "name": "Bots_and_APis",
+  "version": "0.0.1",
+  "description": "This are automated bot for reddit, twitter, telegram and instagram use case. This bot are responsible for handling simple logic task on this social media platforms. ",
+  "main": "index.js",
+  "author": "Timothy Yeboah",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "snoowrap": "^1.23.0",
+    "yargs": "^17.6.2"
+  }
+}

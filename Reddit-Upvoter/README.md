@@ -1,5 +1,5 @@
 
-# Reddit Upvoter
+# Reddit Upvoter v.0.1.0
 A simple script to upvote posts in a subreddit that meet a certain upvote threshold.
 
 ## Prerequisites

@@ -53,10 +53,10 @@ async function main(maxUpvotesAllowed) {
   // Authenticate with the Reddit API using a Reddit account and API key
   const r = new snoowrap({
     userAgent: "my-reddit-bot/1.0",
-    clientId: "JIl6UkBfiI9KIYZqMMsoCQ",
-    clientSecret: "tITytBeJxAbB5gz1A9x9gJFNInOKOw",
-    username: "yeb_timothous",
-    password: "Yeboah@@10@@",
+    clientId: "api_client_id",
+    clientSecret: "api_secret_key",
+    username: "reddit_username",
+    password: "reddit_password",
   });
 
   // Set up variables for the subreddit, minimum upvote threshold, and maximum upvote count

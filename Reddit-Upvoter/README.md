@@ -8,9 +8,12 @@ A simple script to upvote posts in a subreddit that meet a certain upvote thresh
 
 ## Getting Started
 1. clone the repository
-``` 
+```git 
 git clone https://github.com/yeboahtimothy/reddit-upvoter.git
 cd reddit-upvoter
 ```
 
-2. 
+2. Install the dependencies
+```git 
+npm install
+```
